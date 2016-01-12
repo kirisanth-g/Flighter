@@ -1,0 +1,24 @@
+November 17, 2014 - Planning Meeting
+
+Current State of Project:
+-Phase 2 work
+-CRC is being updated(in-meeting)
+-Managers is being created
+-Admin is the subclass of Client(delete some functions in Admin)
+
+
+Task for this week:
+-Implement number of seats for Flight in code
+	-Fight add variable and method to check if its above 0
+	-Generating Itineraries needs to check if flights can seat
+-Create Admin and move some functions from User to it
+-Move some functions from User to Client
+-Make a launch class in charge of login and GUI
+-Create the GUI part of the project
+
+
+Person perform tasks:
+-Managers (Kirisanth)
+-Launcher (Helen Zhou)
+-Admin (Xiaohan Zhou)
+-Number of seats for Flight in code (Zhengyu She)
